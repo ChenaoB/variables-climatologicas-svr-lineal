@@ -2,13 +2,6 @@
 
 En este repositorio encontrará toda la información relacionada con la metodología propuesta, así como los requerimientos para garantizar un funcionamiento adecuado de la aplicación.
 
-# Base de datos
-
-
-Los datos utilizados en este repositorio pueden ser consultados y descargado en el siguiente link
-
-https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Resultados-de-An-lisis-de-Laboratorio-Suelos-en-Co/ch4u-f3i5/about_data
-
 # Propuesta Metodológica
 
 En construcción
